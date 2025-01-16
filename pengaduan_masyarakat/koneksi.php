@@ -1,8 +1,8 @@
 <?php
 
-$hostname = "localhost";    
+$hostname = "localhost";
 $username = "root";
-$password = "";
+$passsword = "";
 $database = "pengaduan_masyarakat";
 
-$koneksi = new mysqli($hostname, $username, $password, $database);
+$koneksi = new mysqli($hostname, $username, $passsword, $database);
