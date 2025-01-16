@@ -18,7 +18,7 @@ if (empty($_SESSION['nik'])) {
     <h1>Selamat Datang Di Aplikasi Pengaduan Masyarakat</h1>
     <nav>
         <a href="index.php">Dashboard</a>
-        <a href="aduan.php">Aduan</a>
+        <a href="input_aduan.php">Aduan</a>
         <a href="logout.php">Logout</a>
     </nav>
 </body>
